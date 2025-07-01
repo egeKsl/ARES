@@ -1,4 +1,4 @@
-nc: 3
+nc: 4
 names: ['tank', 'soldier', 'mvehicle','cvehicle']
 
 depth_multiple: 0.30
