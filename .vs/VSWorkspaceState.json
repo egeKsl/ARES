@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ai",
+    "\\ai\\models"
   ],
-  "SelectedNode": "\\C:\\Users\\corle\\source\\repos\\egeKsl\\ARES",
+  "SelectedNode": "\\versioning",
   "PreviewInSolutionExplorer": false
 }
