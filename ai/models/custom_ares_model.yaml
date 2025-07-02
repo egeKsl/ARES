@@ -1,5 +1,5 @@
 nc: 4
-names: ['tank', 'soldier', 'mvehicle','cvehicle']
+names: ['tanks', 'soldier', 'vehicle','cvehicle']
 
 depth_multiple: 0.28
 width_multiple: 0.28
