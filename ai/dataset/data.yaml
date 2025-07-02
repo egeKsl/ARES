@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['tank', 'vehicles', 'vehicles-soldier-tanks-ships']
+
+roboflow:
+  workspace: ai-2cmlk
+  project: ares-why6t
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ai-2cmlk/ares-why6t/dataset/1
